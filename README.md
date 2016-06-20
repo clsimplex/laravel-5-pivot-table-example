@@ -18,4 +18,5 @@ Anyways, check out the example.
 
 ## Resources
 https://laracasts.com/series/laravel-5-fundamentals/episodes/21
+
 https://laravel.com/docs/5.2/eloquent-relationships#many-to-many
